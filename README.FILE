@@ -1,0 +1,15 @@
+       FOOOD DELIVERY APP
+
+
+
+CLIENT is an  Frontend frame work
+SERVER is an  Backend frame work
+DATABASE = MONGOdb cloud
+
+
+to start the  CLIENT file = npm start
+to start the  SERVER file = node imdex.js
+
+
+
+PLEASE install the needed modules of the frameworks for the live server !
